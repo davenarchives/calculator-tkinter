@@ -49,10 +49,6 @@ This Python script implements a simple GUI-based calculator using the `tkinter` 
   - `C`: Clears the display.
   - `=`: Evaluates the expression.
 
-## Customization
-- **Add More Functions**: Extend the calculator with additional functionality like square root, percentage, or trigonometric functions.
-- **Styling**: Customize the appearance by modifying button colors, fonts, or sizes.
-
 ## License
 This script is provided "as-is" for educational purposes. Feel free to modify and use it in your projects.
 
